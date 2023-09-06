@@ -8,4 +8,5 @@ Esse projeto foi desenvolvido durante um evento do Dev em Dobro com as seguintes
 
 - HTML
 - CSS
+- Javascript
 - Git e Github
