@@ -1,6 +1,3 @@
-# projeto-listagem-pokemon
-Aplicação Web Responsiva de uma Página Informativa
-
 🖥️ Projeto
 Esse é um projeto Web Responsivo de uma listagem de pokemons.
 
