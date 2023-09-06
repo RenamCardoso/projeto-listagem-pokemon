@@ -1,9 +1,11 @@
-🖥️ Projeto
-Esse é um projeto Web Responsivo de uma listagem de pokemons.
+## 🖥️ Projeto
 
-🚀 Tecnologias
-Esse projeto foi desenvolvido durante um evento do Dev em Dobro com as seguintes tecnologias:
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
-HTML
-CSS
-Git e Github
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+
+- HTML
+- CSS
+- Git e Github
